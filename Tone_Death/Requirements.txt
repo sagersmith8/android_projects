@@ -1,0 +1,18 @@
+*1)      Elf stops shooting when enough of the ladders get big enough   (possible fix: when trolls get killed and ladders collapse with troll they never all get that big)
+
+*2)      Need trolls to be animated (possible fix: create one set of animations and then change clothes colors)
+
+3)      Ladders need to collapse
+	*trolls start again
+
+*4)      Would it take multiple arrows to kill the troll?  (need counters for each troll and keep track of hits)
+
+5)      Can arrow stick in troll and move up?
+
+*6)      What happens if troll makes to top? (bonk elf on head and game over or new life for elf)
+
+*7)      If game sits too long after trolls get to top it says unfortunately app stopped (could have something to do with threads not terminating)
+
+*8)      Neal thinks we don’t want them to be able to shoot the trolls unless music is playing otherwise they can get all the upgrades or win things without trying if we eventually add those things
+
+*9)      He likes the variability of the songs – it changes the game a lot more if songs are significantly different
